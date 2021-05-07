@@ -2,7 +2,7 @@
 
 ### :gear: Git Analytics
 <p align="center">
-  <a href="https://github.com/csralvall/csralvall">
+  <a href="https://github.com/mauroebordon/mauroebordon">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=csralvall&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csralvall&layout=compact&langs_count=8&theme=algolia"/>
   </a>
