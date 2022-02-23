@@ -1,4 +1,4 @@
-### Hi there 👋preparando fin
+### Hi there 👋
 
 My name is Mauro, I'm a computer science student and ML/AI enthusiast since 2018.   
 I want to see myself working with a team of people where we can learn and challenge each other, in projects that can have a positive impact on society.  
