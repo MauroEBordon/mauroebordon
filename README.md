@@ -20,6 +20,8 @@ I do most my google searches with my Google Assistant.
     - [Pandas](https://www.kaggle.com/learn/certification/mauroezequielbordn/pandas)
     - [Data Visualization](https://www.kaggle.com/learn/certification/mauroezequielbordn/data-visualization)
     - [Intro to Machine Learning](https://www.kaggle.com/learn/certification/mauroezequielbordn/intro-to-machine-learning)
+    - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/mauroezequielbordn/intermediate-machine-learning)
+    - 
    
 ### 👯 I’m looking to collaborate on:
   - ML Aplications that focuses on developing Quality of life for its users.  
