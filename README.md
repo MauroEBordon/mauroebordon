@@ -3,7 +3,7 @@
 My name is Mauro, I'm a computer science student and ML/AI enthusiast since 2018.   
 I want to see myself working with a team of people where we can learn and challenge each other, in projects that can have a positive impact on society.  
 I'm most proficient in Pandas/Python/Bash and I specially like to prototype easy solutions to diverse problems.  
-I do most my google searches with my Google Assistant.  preparando fin
+I do most my google searches with my Google Assistant.
 
 ### 🌱 I’m currently working on:
   - Developing an AI for a regional game :) (own project but no sight of and end yet)  
