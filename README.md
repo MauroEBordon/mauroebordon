@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello there 
 
 My name is Mauro, I'm a computer science student and ML/AI enthusiast since 2018 [here is my Resume](https://drive.google.com/file/d/1KKzehGPBSyi45WIopRrP_s0cnkWVcFVK/view?usp=sharing).  
 I want to see myself working with a team of people where we can learn and challenge each other, in projects that can have a positive impact on society.  
@@ -33,6 +33,7 @@ I do most my google searches with my Google Assistant.
   - Learning about History, Philosophy, Astrology, etc, etc. I'm **curious**. 
 
 ### 🪧 Additional
+  - I did [MIT's Intro to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and [ Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) in 2017 but couldn't pay for he certificates.
   - [Honorable Mention in the Argentine Programming Tournament  (TAP)](https://pdfhost.io/v/Ei7unYSv~_2022TAP_2021PLACE_1/) - Oct 2021
   - Globant C++ Development Bootcamp 2017
   
