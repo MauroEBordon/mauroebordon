@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mauro, I'm a computer science student and ML/AI enthusiast since 2018.   
+My name is Mauro, I'm a computer science student and ML/AI enthusiast since 2018 [here is my Resume](https://drive.google.com/file/d/1KKzehGPBSyi45WIopRrP_s0cnkWVcFVK/view?usp=sharing).  
 I want to see myself working with a team of people where we can learn and challenge each other, in projects that can have a positive impact on society.  
 I'm most proficient in Pandas/Python/Bash and I specially like to prototype easy solutions to diverse problems.  
 I do most my google searches with my Google Assistant.
@@ -32,7 +32,12 @@ I do most my google searches with my Google Assistant.
   - Reading Sci-fi/Fantasy books or manga.
   - Learning about History, Philosophy, Astrology, etc, etc. I'm **curious**. 
 
-I thank you for your time.
+### 🪧 Additional
+  -  
+  - Honorable Mention in the Argentine Programming Tournament  (TAP) \href{https://pdfhost.io/v/Ei7unYSv~_2022TAP_2021PLACE_1/}{\color{blue}\faExternalLink } Oct 2021
+  - Globant C++ Development Bootcamp 2017
+  
+I thank you for your time.  
 
 ### :gear: Git Analytics
 <p align="center">
