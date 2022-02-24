@@ -16,7 +16,7 @@ I do most my google searches with my Google Assistant.
     - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/WJ3SBL8HNR7L)  
     - [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/PPRDUTS2YU85)  
     - [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/6499S6MD9KZH)  
-  - [Kaggle Learn](https://www.kaggle.com/learn) [**[Repo]**]()
+  - [Kaggle Learn](https://www.kaggle.com/learn)
     - [Pandas](https://www.kaggle.com/learn/certification/mauroezequielbordn/pandas)
     - [Data Visualization](https://www.kaggle.com/learn/certification/mauroezequielbordn/data-visualization)
     - [Intro to Machine Learning](https://www.kaggle.com/learn/certification/mauroezequielbordn/intro-to-machine-learning)
