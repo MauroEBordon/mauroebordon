@@ -31,6 +31,7 @@ I do most my google searches with my Google Assistant.
   - Playing Chess (im an amateur), challenge me [here](https://www.chess.com/member/mauroebordon)
   - Reading Sci-fi/Fantasy books or manga.
   - Learning about History, Philosophy, Astrology, etc, etc. I'm **curious**. 
+  - I can't leave without Spotify =p.
 
 ### 🪧 Additional
   - I did [MIT's Intro to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and [ Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) in 2017 but couldn't pay for he certificates.
