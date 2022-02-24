@@ -33,8 +33,7 @@ I do most my google searches with my Google Assistant.
   - Learning about History, Philosophy, Astrology, etc, etc. I'm **curious**. 
 
 ### 🪧 Additional
-  -  
-  - Honorable Mention in the Argentine Programming Tournament  (TAP) \href{https://pdfhost.io/v/Ei7unYSv~_2022TAP_2021PLACE_1/}{\color{blue}\faExternalLink } Oct 2021
+  - [Honorable Mention in the Argentine Programming Tournament  (TAP)](https://pdfhost.io/v/Ei7unYSv~_2022TAP_2021PLACE_1/) - Oct 2021
   - Globant C++ Development Bootcamp 2017
   
 I thank you for your time.  
