@@ -6,7 +6,7 @@ I'm most proficient in Pandas/Python/Bash and I specially like to prototype easy
 I do most my google searches with my Google Assistant.
 
 ### 🌱 I’m currently working on:
-  - Developing an AI for a regional game :) (own project but no sight of and end yet)  
+  - Developing an [AI](https://github.com/MauroEBordon/secret-ai) for a regional game :) (own project but no sight of and end yet)  
   - Doing courses on https://www.kaggle.com/learn  
   
 ### 📚 Online Certifications:
