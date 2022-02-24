@@ -34,7 +34,7 @@ I do most my google searches with my Google Assistant.
   - I can't live without Spotify =p.
 
 ### 🪧 Additional
-  - I did [MIT's Intro to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and [ Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) in 2017 but couldn't pay for he certificates.
+  - I did [MIT's Intro to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and [ Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) in 2017 but couldn't pay for the certificates.
   - [Honorable Mention in the Argentine Programming Tournament  (TAP)](https://pdfhost.io/v/Ei7unYSv~_2022TAP_2021PLACE_1/) - Oct 2021
   - Globant C++ Development Bootcamp 2017
   
