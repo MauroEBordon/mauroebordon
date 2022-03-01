@@ -1,12 +1,12 @@
 ### 👋 Hello there 
 
-My name is Mauro, I'm a computer science student and ML/AI enthusiast since 2018 [here is my Resume](https://drive.google.com/file/d/1KKzehGPBSyi45WIopRrP_s0cnkWVcFVK/view?usp=sharing).  
-I want to see myself working with a team of people where we can learn and challenge each other, in projects that can have a positive impact on society.  
-I'm most proficient in Pandas/Python/Bash and I specially like to prototype easy solutions to diverse problems.  
-I do most my google searches with my Google Assistant.
+My name is Mauro, I'm a computer science student & ML/AI enthusiast since 2018 [here is my Resume](https://drive.google.com/file/d/1KKzehGPBSyi45WIopRrP_s0cnkWVcFVK/view?usp=sharing).  
+I'm most proficient in Pandas/Python/Bash & I love to prototype easy solutions to diverse problems.  
+I do most of my google searches with my Google Assistant.
+I see myself working in projects that have a positive impact for our society.  
 
 ### 🌱 I’m currently working on:
-  - Developing an [AI](https://github.com/MauroEBordon/secret-ai) for a regional game :) (own project but no sight of and end yet)  
+  - Developing an [AI](https://github.com/MauroEBordon/truco-ai) for a regional game :) (own project but no sight of an end yet)  
   - Doing courses on https://www.kaggle.com/learn  
   
 ### 📚 Online Certifications:
@@ -30,17 +30,17 @@ I do most my google searches with my Google Assistant.
   - Hope this could start soon enough.  
 
 ### 📺 Hobbies:
-  - Playing Chess (im an amateur), challenge me [here](https://www.chess.com/member/mauroebordon)
+  - Playing Chess (I'm an amateur), challenge me [here](https://www.chess.com/member/mauroebordon)
   - Reading Sci-fi/Fantasy books or manga.
-  - Learning about History, Philosophy, Astrology, etc, etc. I'm **curious**. 
-  - I can't live without Spotify =p.
+  - Learning about History, Philosophy, Astronomy, etc, etc. I'm **curious**. 
+  - I can't live without my Spotify account =p.
 
 ### 🪧 Additional
-  - I did [MIT's Intro to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and [ Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) in 2017 but couldn't pay for the certificates.
+  - I did [MIT's Intro to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) & [ Harvard's CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) in 2017 but couldn't pay for the certificates.
   - [Honorable Mention in the Argentine Programming Tournament  (TAP)](https://pdfhost.io/v/Ei7unYSv~_2022TAP_2021PLACE_1/) - Oct 2021
   - Globant C++ Development Bootcamp 2017
   
-I thank you for your time.  
+Thank you for your time.  
 
 ### :gear: Git Analytics
 <p align="center">
