@@ -22,7 +22,8 @@ I see myself working in projects that have a positive impact for our society.
     - [Intro to Machine Learning](https://www.kaggle.com/learn/certification/mauroezequielbordn/intro-to-machine-learning)
     - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/mauroezequielbordn/intermediate-machine-learning)
     - [Machine Learning Explainability](https://www.kaggle.com/learn/certification/mauroezequielbordn/machine-learning-explainability)
-   
+    - [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mauroezequielbordn/intro-to-ai-ethics)  
+    
 ### 👯 I’m looking to collaborate on:
   - ML Aplications that focuses on developing Quality of life for its users.  
 
