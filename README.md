@@ -1,6 +1,6 @@
 ### 👋 Hello there 
 
-My name is Mauro, I'm a computer science student & ML/AI enthusiast since 2018 [here is my Resume](https://drive.google.com/file/d/1KKzehGPBSyi45WIopRrP_s0cnkWVcFVK/view?usp=sharing).  
+My name is Mauro, I'm a computer science student & ML/AI enthusiast since 2018 [here is my Resume](https://drive.google.com/file/d/1thgw1yjKJ5hwbfpe0LqYN6WwvN_PQ7Z-/view?usp=sharing).  
 I'm most proficient in Pandas/Python/Bash & I love to prototype easy solutions to diverse problems.  
 I do most of my google searches with my Google Assistant.
 I see myself working in projects that have a positive impact for our society.  
