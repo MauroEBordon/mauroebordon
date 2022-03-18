@@ -6,7 +6,7 @@ I do most of my google searches with my Google Assistant.
 I see myself working in projects that have a positive impact for our society.  
 
 ### 🌱 I’m currently working on:
-  - ~~Developing an [AI](https://github.com/MauroEBordon/truco-ai) for a regional game :) (own project but no sight of an end yet)  ~~
+  - ~~Developing an  ~~ [AI](https://github.com/MauroEBordon/truco-ai)  ~~ for a regional game :) (own project but no sight of an end yet) ~~ 
   - Doing courses on https://www.kaggle.com/learn  
   
 ### 📚 Online Certifications:
