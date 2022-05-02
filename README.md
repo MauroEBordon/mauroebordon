@@ -32,7 +32,7 @@ I see myself working in projects that have a positive impact for our society.
   - Hope this could start soon enough.  
 
 ### 📺 Hobbies:
-  - Playing Chess (I'm an amateur), challenge me [here](https://www.chess.com/member/mauroebordon)
+  - Playing Chess (I'm an amateur), challenge me [here](https://lichess.org/@/thepuffsmurf)
   - Reading Sci-fi/Fantasy books or manga.
   - Learning about History, Philosophy, Astronomy, etc, etc. I'm **curious**. 
   - I can't live without my Spotify account =p.
