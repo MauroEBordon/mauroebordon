@@ -6,8 +6,9 @@ I do most of my google searches with my Google Assistant.
 I see myself working in projects that have a positive impact for our society.  
 
 ### 🌱 I’m currently:
-  - Doing courses on https://www.kaggle.com/learn  
-  - attending college daily
+  - Undertaking courses on https://www.kaggle.com/learn  
+  - participating on a [Secure Software Development Course](https://www.fundacionsadosky.org.ar/curso-de-introduccion-al-desarrollo-seguro/)
+  - Attending college daily
   
 ### 📚 Online Certifications:
   - [Applied Data Science with Python (2020)](https://www.coursera.org/account/accomplishments/specialization/SEYQ8JB5G94B) [**[Repo]**](https://github.com/MauroEBordon/Applied-Data-Science-in-Python)
