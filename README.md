@@ -6,9 +6,10 @@ I do most of my google searches with my Google Assistant.
 I see myself working in projects that have a positive impact for our society.  
 
 ### 🌱 I’m currently:
-  - Undertaking courses on [Kaggle Learn](https://www.kaggle.com/learn)
-  - participating on a [Secure Software Development Course](https://www.fundacionsadosky.org.ar/curso-de-introduccion-al-desarrollo-seguro/)
-  - Attending college daily
+  - Undertaking courses on [Kaggle Learn](https://www.kaggle.com/learn).
+  - Participating on a [Secure Software Development Course](https://www.fundacionsadosky.org.ar/curso-de-introduccion-al-desarrollo-seguro/).
+  - Aiding on College classes as a Teaching Aide (currently on the Networks & Distributed Systems class).
+  - Attending College,
   
 ### 📚 Online Certifications:
   - [Applied Data Science with Python (2020)](https://www.coursera.org/account/accomplishments/specialization/SEYQ8JB5G94B) [**[Repo]**](https://github.com/MauroEBordon/Applied-Data-Science-in-Python)
@@ -28,9 +29,9 @@ I see myself working in projects that have a positive impact for our society.
     
 ### 👯 I’m looking to collaborate on:
   - ML Aplications that focuses on developing Quality of life for its users.  
-
+ 
 ### 📑 Articles:
-  - Hope this could start soon enough.  
+  - Hope to start soon enough.  
 
 ### 📺 Hobbies:
   - Playing Chess (I'm an amateur), challenge me [here](https://lichess.org/@/thepuffsmurf)
