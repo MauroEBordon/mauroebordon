@@ -6,7 +6,7 @@ I do most of my google searches with my Google Assistant.
 I see myself working in projects that have a positive impact for our society.  
 
 ### 🌱 I’m currently:
-  - Undertaking courses on [kaggle.com/learn ](https://www.kaggle.com/learn)
+  - Undertaking courses on [Kaggle Learn](https://www.kaggle.com/learn)
   - participating on a [Secure Software Development Course](https://www.fundacionsadosky.org.ar/curso-de-introduccion-al-desarrollo-seguro/)
   - Attending college daily
   
