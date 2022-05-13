@@ -7,7 +7,7 @@
 
 ### 🌱 I’m currently:
   - Attending College
-  - Undertaking courses on [Kaggle](https://www.kaggle.com/learn) & [FreeCodeCamp](FreeCodeCamp.org).
+  - Undertaking courses on [Kaggle](https://www.kaggle.com/learn) & [FreeCodeCamp](www.FreeCodeCamp.org).
   - Participating on a [Secure Software Development Course](https://www.fundacionsadosky.org.ar/curso-de-introduccion-al-desarrollo-seguro/).
   - Aiding on College classes as a Teaching Aide (currently on the Networks & Distributed Systems class).
   
@@ -19,7 +19,7 @@
     - [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/PPRDUTS2YU85)  
     - [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/6499S6MD9KZH) 
    
-  - [FreeCodeCamp.org](freecodecamp.org)
+  - [FreeCodeCamp.org](www.freecodecamp.org)
     - [Scientific Computing with Python](https://freecodecamp.org/certification/mauroebordon/scientific-computing-with-python-v7)
     
   - [Kaggle Learn](https://www.kaggle.com/learn)
