@@ -19,7 +19,7 @@
     - [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/PPRDUTS2YU85)  
     - [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/6499S6MD9KZH)  
   - [FreeCodeCamp.org]()
-    - [Scientific Computing with Python](https://freecodecamp.org/certification/mauroebordon/scientific-computing-with-python-v7 ¿)
+    - [Scientific Computing with Python](https://freecodecamp.org/certification/mauroebordon/scientific-computing-with-python-v7)
   - [Kaggle Learn](https://www.kaggle.com/learn)
     - [Pandas](https://www.kaggle.com/learn/certification/mauroezequielbordn/pandas)
     - [Data Visualization](https://www.kaggle.com/learn/certification/mauroezequielbordn/data-visualization)
