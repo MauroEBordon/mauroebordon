@@ -17,9 +17,11 @@
     - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/F83HND4KZ6E9)  
     - [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/verify/WJ3SBL8HNR7L)  
     - [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/verify/PPRDUTS2YU85)  
-    - [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/6499S6MD9KZH)  
-  - [FreeCodeCamp.org]()
+    - [Applied Social Network Analysis in Python](https://www.coursera.org/account/accomplishments/verify/6499S6MD9KZH) 
+   
+  - [FreeCodeCamp.org](freecodecamp.org)
     - [Scientific Computing with Python](https://freecodecamp.org/certification/mauroebordon/scientific-computing-with-python-v7)
+    
   - [Kaggle Learn](https://www.kaggle.com/learn)
     - [Pandas](https://www.kaggle.com/learn/certification/mauroezequielbordn/pandas)
     - [Data Visualization](https://www.kaggle.com/learn/certification/mauroezequielbordn/data-visualization)
