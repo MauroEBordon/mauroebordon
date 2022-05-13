@@ -33,7 +33,7 @@
     
 ### 👯 I’m looking to collaborate on:
   - ML Aplications that focuses on developing Quality of life for its users.  
- 
+  - Data Engineering for investigation purposes
 ### 📑 Articles:
   - Hope to start soon enough.  
 
