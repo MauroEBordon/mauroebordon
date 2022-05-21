@@ -22,6 +22,7 @@
    
   - [FreeCodeCamp.org](www.freecodecamp.org)
     - [Scientific Computing with Python](https://freecodecamp.org/certification/mauroebordon/scientific-computing-with-python-v7)
+    - [Data Analysis with Python](https://www.freecodecamp.org/certification/mauroebordon/data-analysis-with-python-v7)
     
   - [Kaggle Learn](https://www.kaggle.com/learn)
     - [Pandas](https://www.kaggle.com/learn/certification/mauroezequielbordn/pandas)
