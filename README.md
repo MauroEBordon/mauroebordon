@@ -2,17 +2,20 @@
 
   I'm Mauro, I'm a Computer Science student & ML/AI/NLP enthusiast since 2018. [Here is my Resume](https://drive.google.com/file/d/1nLGbmHlwIL3-Me-67jXeW9gAMvJEVzZV/view?usp=sharing).  
   I'm most proficient in Pandas/Python/Bash & I love to prototype easy solutions to diverse problems.  
-  I do most of my google searches by voice to my Google Assistant.  
   I see myself working in projects that have a positive impact for our society.  
 
 ### 🌱 I’m currently:
   - Attending College
   - Undertaking courses on [Kaggle](https://www.kaggle.com/learn) & [FreeCodeCamp](www.FreeCodeCamp.org).
   - Participating on a [Secure Software Development Course](https://www.fundacionsadosky.org.ar/curso-de-introduccion-al-desarrollo-seguro/).
-  - Aiding on College classes as a Teaching Aide (currently on the Networks & Distributed Systems class).
-  - Supervised scrapping & data processing for an incoming investigation at [Fundar](www.fund.ar) 
-  
-### 📚 Online Certifications:
+  - Aiding on College classes as a Teaching Aide (currently on the 'Intro to Logic & Computability' class).
+
+### 📚 Certifications:
+  - Escuela de Ciencias Informáticas   
+    - [Procesamiento de imágenes satelitales](https://eci.dc.uba.ar/cursos-eci/m3-procesamiento-imagenes-satelitales/)   
+    - [Modelos de programación heterogéneos: portabilidad, rendimiento y
+programabilidad](https://eci.dc.uba.ar/cursos-eci/t3-modelos-programacion-heterogeneos/)
+
   - [Applied Data Science with Python (2020)](https://www.coursera.org/account/accomplishments/specialization/SEYQ8JB5G94B) [**[Repo]**](https://github.com/MauroEBordon/Applied-Data-Science-in-Python)
     - [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/verify/YBRE7BFFZRKS)  
     - [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/verify/F83HND4KZ6E9)  
