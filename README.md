@@ -5,10 +5,7 @@
   I see myself working in projects that have a positive impact for our society.  
 
 ### 🌱 I’m currently:
-  - Attending College
-  - Undertaking courses on [Kaggle](https://www.kaggle.com/learn) & [FreeCodeCamp](www.FreeCodeCamp.org).
-  - Participating on a [Secure Software Development Course](https://www.fundacionsadosky.org.ar/curso-de-introduccion-al-desarrollo-seguro/).
-  - Aiding on College classes as a Teaching Aide (currently on the 'Intro to Logic & Computability' class).
+  - Working as a Data Developer for Mutt Data
 
 ### 📚 Certifications:
   - Escuela de Ciencias Informáticas   
