@@ -40,7 +40,7 @@ programabilidad](https://eci.dc.uba.ar/cursos-eci/t3-modelos-programacion-hetero
   - Hope to start soon enough.  
 
 ### 📺 Hobbies:
-  - Playing Chess (I'm an amateur), challenge me [here](https://lichess.org/@/thepuffsmurf)
+  - Playing Chess (I'm an amateur), challenge me [here](https:/chess.com/@/mauroebordon)
   - Reading Sci-fi/Fantasy books or manga.
   - Learning about History, Philosophy, Astronomy, etc, etc. I'm **curious**. 
   - I can't live without my Spotify account =p.
